@@ -56,7 +56,7 @@ function esImpar(num) {
    // Tu código:
 
    if (num %2 !== 0 ) {
-      return true;  
+      return true ;  
    } else {
       return false;
    }
